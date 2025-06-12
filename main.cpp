@@ -6,9 +6,9 @@ int main()
 {
   char first, middle, last;
   // Store your initials in the variables
-  first = 'S';
-  middle = 'K';
-  last = 'S';
+  first = 'C';
+  middle = 'J';
+  last = 'L';
 
   cout << first << middle << last;
   return 0;
